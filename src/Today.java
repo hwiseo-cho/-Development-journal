@@ -31,7 +31,11 @@ public class Today {
 	 *	1. interceptor를 통한 세션 가로채기로 아이디값 가져와서 채팅에 사용자 아이디 넣어 채팅 구현하기
 	 *	2. Spring - pojo, DTO, Porxy, shcema, spirng-context-support 공부
 	 *	
+	 * ________________________________________________________
 	 * 
+	 * 10-11 일
+	 * 
+	 * 휴식
 	 * 
 	 * 
 	 * 
