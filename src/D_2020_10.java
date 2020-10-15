@@ -91,5 +91,9 @@ public class D_2020_10 {
 	 * 		2. HttpSession이랑 WebsocketSession이랑 Map객체를 사용하여 연동시켜서 메세지 출력시
 	 * 		   httpSession값 사용할 수 있게 만듬
 	 * 
+	 * * 파이널 프로젝트(학원)
+	 * - 프로젝트 생성 및 login.jsp에서 로그인 후 home.jsp로 가도록 구현 완료 
+	 * - 팀원들에게 배포 
+	 * 
 	 */
 }
